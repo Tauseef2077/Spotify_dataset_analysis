@@ -1,7 +1,7 @@
 # Spotify Advanced SQL Project and Query Optimization P-6
 Project Category: Advanced
 
-![Spotify Logo]([https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg](https://www.butlerbranding.com/wp-content/uploads/2019/09/Spotify-Logo-Large.jpg))
+![image alt](https://github.com/Tauseef2077/Spotify_dataset_analysis/blob/c0c61768d4ec7c1d980e961a1fec5a98967fe909/Spotify-Logo-Large.jpg)
 
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
