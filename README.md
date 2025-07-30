@@ -1,4 +1,4 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
+# Spotify Advanced SQL Project and Query Optimization 
 Project Category: Advanced
 
 ![image alt](https://github.com/Tauseef2077/Spotify_dataset_analysis/blob/c0c61768d4ec7c1d980e961a1fec5a98967fe909/Spotify-Logo-Large.jpg)
@@ -69,6 +69,11 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 
 ### Easy Level
 1. Retrieve the names of all tracks that have more than 1 billion streams.
+```sql
+select * from spotify
+where stream > 1000000000;
+
+```
 2. List all albums along with their respective artists.
 3. Get the total number of comments for tracks where `licensed = TRUE`.
 4. Find all tracks that belong to the album type `single`.
