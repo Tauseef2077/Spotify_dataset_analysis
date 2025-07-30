@@ -2,7 +2,11 @@
 Project Category: Advanced
 
 ![image alt](https://github.com/Tauseef2077/Spotify_dataset_analysis/blob/c0c61768d4ec7c1d980e961a1fec5a98967fe909/Spotify-Logo-Large.jpg)
+
+
 **The Dataset is also uploaded in this repository , so do check it out**
+-----------------------------------------------------------------------
+
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
@@ -65,7 +69,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
   
 ---
 
-## 15 Practice Questions
+## 13 Practice Questions
 
 ### Easy Level
 1. Retrieve the names of all tracks that have more than 1 billion streams.
